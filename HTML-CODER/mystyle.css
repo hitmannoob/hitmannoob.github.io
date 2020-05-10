@@ -1,0 +1,27 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	color: navy;
+	margin-left: 20px;
+}
+p{/*this is bullshit*/
+	
+}
+h2{
+	color: magenta;
+	margin-left: 30%;
+	margin-right: 20%;
+}
+/*this is to change the color*/
+.topnav{
+	background-color: navy;
+	overflow: hidden;
+}
+/*this is to style*/
+.topnav a{
+	float: left;
+	text-align: center;
+	color: pink;
+	padding: 14px 16px;
+}
